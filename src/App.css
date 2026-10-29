@@ -1,6 +1,0 @@
-body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
-nav { background: #222; color: #fff; padding: 1em; }
-nav a { color: #fff; margin-right: 1em; text-decoration: none; }
-form { margin: 2em auto; max-width: 400px; display: flex; flex-direction: column; }
-input, select, button { margin: 0.5em 0; padding: 0.5em; }
-.error { color: red; }
